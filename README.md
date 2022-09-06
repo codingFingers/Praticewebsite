@@ -4,7 +4,7 @@ This is a pratice project.
 
 ## Installation
 ```
-git clone
+git clone https://github.com/codingFingers/Praticewebsite.git
 
 ```
 
